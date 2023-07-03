@@ -1,1 +1,1 @@
-# Inf_basica_prog_GEFAN
+# Informação basica de programação_GEFAN
